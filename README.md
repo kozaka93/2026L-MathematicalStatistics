@@ -34,7 +34,7 @@ Materiały z zajęć _Statystyka Matematyczna_ prowadzonych na Wydziale Matematy
   <tr>
     <td>3</td>
     <td>29.04</td>
-    <td></td>
+    <td><a href="https://github.com/kozaka93/2026L-MathematicalStatistics/tree/main/lab03">Statystyka opisowa 2, estymacja punktowa</a></td>
     <td>K1 (3p)</td>
   </tr>
  <tr>
