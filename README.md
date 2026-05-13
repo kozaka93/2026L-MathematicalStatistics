@@ -46,7 +46,7 @@ Materiały z zajęć _Statystyka Matematyczna_ prowadzonych na Wydziale Matematy
  <tr>
    <td>5</td>
     <td>13.05</td>
-    <td></td>
+    <td><a href="https://github.com/kozaka93/2026L-MathematicalStatistics/tree/main/lab05">Estymacja punktowa i przedziałowa 2</a></td>
    <td>K2 (3p)</td>
   </tr>
  <tr>
