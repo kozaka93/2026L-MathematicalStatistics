@@ -52,19 +52,19 @@ Materiały z zajęć _Statystyka Matematyczna_ prowadzonych na Wydziale Matematy
  <tr>
     <td>6</td>
     <td>20.05</td>
-    <td></td>
+    <td>Weryfikacja hipotez</td>
    <td></td>
   </tr>
  <tr>
     <td>7</td>
     <td>27.05</td>
-    <td></td>
+    <td>Weryfikacja hipotez 2</td>
    <td>K3 (4p)</td>
   </tr>
 <tr>
     <td>8</td>
     <td>10.06</td>
-    <td></td>
+    <td>Testowanie zgodności, jednorodności i niezależności</td>
   <td></td>
   </tr>
 </tbody>
